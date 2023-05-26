@@ -1,15 +1,41 @@
-h1,  p{
+
+div:hover{
+
+  border-radius: 20px;
+  border:4px solid rgb(255, 187, 0)
+}
+#coloron:hover{
+  color: white;
+  background-color:red;
+  
+  text-align: center;
+  
+}
+#colortwo:hover{
+  color: white;
+  background-color: green;
+  
+  text-align: center;
+}
+#colortreew:hover{
+  color: white;
+background-color: blue;
+
 text-align: center;
+}
+#colorfor:hover{
+  color: white;
+background-color: rgb(238, 0, 167);
 
+text-align: center;
 }
 
-ul:hover,ol:hover{
-  background-color:rgb(255, 187, 0);
+#colorfavi:hover{
+  color: white;
+background-color: rgba(238, 0, 167, 0.493);
+
+text-align: center;
 }
-li:active{
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  font-size: 20px ;
-}
-li{
-  list-style: none;
+h3{
+font-style: italic;
 }
